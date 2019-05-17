@@ -54,4 +54,8 @@ void main() {
   print('\nRunes');
   Runes input = Runes('\u2665 \u2443 \u{1f47b}');
   print(new String.fromCharCodes(input));
+
+  //Function
+  print('\nFunction');
+
 }
