@@ -1,7 +1,7 @@
 void main() {
   /*
     Learning dart
-    This is my jornuey through the dart land 
+    This is my journey through the dart land 
     Just exploring the basics 
   */
 
@@ -139,6 +139,8 @@ void main() {
     default:
       print('Switch control');
   }
+
+  //assert is used to check if a condition is false then it disrupt the flow of execution.
 
 
 
